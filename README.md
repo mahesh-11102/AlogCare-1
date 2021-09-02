@@ -137,12 +137,3 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
-## Contact
-
- [@Abhishek Lwagun](https://twitter.com/AbhishekLwagun) - abhisheklwagun1@gmail.com
-
-Project Link: [https://github.com/Alogh-god/alogCare](https://github.com/Alogh-god/alogCare)
-
-
