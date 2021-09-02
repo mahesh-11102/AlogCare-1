@@ -1,6 +1,7 @@
 ## AlogCare
 
 A simple way to connect needy people and people who want to help.
+### This is a `Web` version of my CoviCare app
 ### Glimpse of my project
 ![image](https://user-images.githubusercontent.com/77436328/131792090-83b4b3bb-3990-49ff-956a-39dea94f00c0.png)
 
